@@ -1,0 +1,259 @@
+body{
+    width: 100%;
+}
+
+p{
+    font-family: Bitter Regular;
+
+}
+h1{
+    font-family: Bitter Bold;
+}
+
+h2{
+    font-family: Bitter Bold;
+}
+
+h3{
+    font-family: Bitter Bold;
+}
+
+h4{
+    font-family: Bitter Italic;
+}
+h5{
+    font-family: Bitter Italic;
+}
+h6{
+    font-family: Bitter Italic;
+}
+
+
+button{
+    font-family: Bitter Regular;
+    color: #585F72;
+    background-color: #A3A4C0;
+    border-color: #585F72;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    transition: 200ms;
+    text-decoration: none;
+}
+button:hover{
+    font-family: Bitter Regular;
+    color: #A3A4C0;
+    background-color: #585F72;
+    border-color: #A3A4C0;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+button.dark{
+    font-family: Bitter Regular;
+    color: #A3A4C0;
+    background-color: #585F72;
+    border-color: #A3A4C0;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: 200ms;
+    text-decoration: none;
+}
+
+button.dark:hover{
+    font-family: Bitter Regular;
+    color: #585F72;
+    background-color: #A3A4C0;
+    border-color: #585F72;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+button.red{
+    font-family: Bitter Regular;
+    color: #BF2A52;
+    background-color: #121926;
+    border-color: #BF2A52;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    transition: 200ms;
+    text-decoration: none;
+}
+button.red:hover{
+    font-family: Bitter Regular;
+    color: #121926;
+    background-color: #BF2A52;
+    border-color: #121926;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+button.red-inv{
+    font-family: Bitter Regular;
+    color: #121926;
+    background-color: #BF2A52;
+    border-color: #121926;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    transition: 200ms;
+    text-decoration: none;
+}
+button.red-inv:hover{
+    font-family: Bitter Regular;
+    color: #BF2A52;
+    background-color: #121926;
+    border-color: #BF2A52;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+
+button.tombstone{
+    font-family: Bitter Regular;
+    color: #585F72;
+    background-color: #A3A4C0;
+    border-color: #585F72;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px 20px 5px 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 35px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+button.tombstone:hover{
+    font-family: Bitter Regular;
+    color: #A3A4C0;
+    background-color: #585F72;
+    border-color: #A3A4C0;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px 20px 5px 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 35px;
+    text-transform: uppercase;
+}
+
+nav{
+    width: 100%;
+
+
+}
+
+a.nav-link-tombstone{
+    font-family: Bitter Regular;
+    color: #585F72;
+    background-color: #A3A4C0;
+    border-color: #585F72;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    transition: 200ms;
+    text-decoration: none;
+}
+a.nav-link-tombstone:hover{
+    font-family: Bitter Regular;
+    color: #A3A4C0;
+    background-color: #585F72;
+    border-color: #A3A4C0;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.col-6 {
+    padding: 0 10px;
+    flex-basis: 50%;
+  }
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+.container-flex {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+  }
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1255px;
+    align-items: center;
+  }
+
+.col-2 {
+    column-count: 2;
+}
